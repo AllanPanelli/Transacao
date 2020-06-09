@@ -2,11 +2,7 @@ package com.ProcessoSeletivo.ProcessoSeletivo.service;
 
 import com.ProcessoSeletivo.ProcessoSeletivo.domain.Transaction;
 import com.ProcessoSeletivo.ProcessoSeletivo.repository.TransactionRepository;
-
-
-import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.gson.GsonBuilderCustomizer;
 import org.springframework.stereotype.Service;
 import java.util.List;
 @Service
