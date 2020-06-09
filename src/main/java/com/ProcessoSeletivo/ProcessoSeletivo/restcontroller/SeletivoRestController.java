@@ -3,7 +3,7 @@ package com.ProcessoSeletivo.ProcessoSeletivo.restcontroller;
 import com.ProcessoSeletivo.ProcessoSeletivo.domain.Transaction;
 import com.ProcessoSeletivo.ProcessoSeletivo.service.Transactionservice;
 
-import org.json.JSONObject;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
